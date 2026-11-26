@@ -12,12 +12,9 @@ Full-stack developer in Chennai, India. I build modern web applications, interac
 | Project | Description | Stack | Links |
 | --- | --- | --- | --- |
 | **Code Arena** | In-browser playground for JavaScript, TypeScript, and Python — run code, practice problems, and compete in 1v1 battles. | Next.js, React, TypeScript, Monaco Editor, Tailwind CSS | [Live Product](https://codeareana.com) |
-| **OpenCert Renderer** | OpenAttestation / OpenCert document renderer with award, completion, testimonial, and demo certificate templates. | Vite, React, TypeScript, Tailwind CSS | [Live](https://certificate-opencert.vercel.app) · [Repo](https://github.com/SHuzzain/certificate-opencert) |
-| **OpenCert Renderer (Angular)** | Angular 13 port of the same OpenCert renderer, including the parent-frame `postMessage` protocol. | Angular, TypeScript | [Live](https://certificate-opencert-angular.vercel.app) · [Repo](https://github.com/SHuzzain/certificate-opencert-angular) |
 | **ARF Seafoods** | Mobile-first app for seafood purchases, sales, payments, ledgers, and reports. | Next.js, PostgreSQL, Prisma, Tailwind CSS | [Live](https://sea-food-three.vercel.app) · [Repo](https://github.com/SHuzzain/sea-food) |
 | **Chat Next** | Embeddable streaming AI chat widget with OpenAI and OpenRouter backends, theme sync, and PM2 deploy scripts. | Next.js, Vercel AI SDK, TypeScript, Tailwind CSS | [Live](https://chat-next-ashy-two.vercel.app) · [Repo](https://github.com/SHuzzain/chat-next) |
-| **Tech Wave Media** | Headless magazine site: Next.js frontend with a WordPress admin, plus contact, sitemap, and guest-post pages. | Next.js, WordPress, TypeScript, Tailwind CSS | [Repo](https://github.com/SHuzzain/tech-wave-media) |
-| **Job Portal** | Internationalized job portal with employer and seeker workspaces, backed by a Hono API for jobs, applications, interviews, and resumes. | Next.js, Hono, PostgreSQL, Drizzle, Better Auth | [Frontend](https://github.com/SHuzzain/job-portal-fr) · [API](https://github.com/SHuzzain/job-portal-bc) |
+| **Tech Wave Media** | Headless magazine site: Next.js frontend with a WordPress admin, plus contact, sitemap, and guest-post pages. | Next.js, WordPress, TypeScript, Tailwind CSS | [Repo](https://github.com/SHuzzain/tech-wave-media)
 
 ## Tech Stack
 
@@ -26,7 +23,6 @@ Full-stack developer in Chennai, India. I build modern web applications, interac
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
